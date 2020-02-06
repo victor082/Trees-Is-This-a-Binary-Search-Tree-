@@ -1,5 +1,7 @@
 # Trees-Is-This-a-Binary-Search-Tree-
 
+REFERENCE LINK: https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D=trees
+
 For the purposes of this challenge, we define a binary search tree to be a binary tree with the following properties:
 
 The DATA value of every node in a node's left subtree is less than the data value of that node.
